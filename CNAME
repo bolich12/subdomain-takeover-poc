@@ -1,4 +1,1 @@
-Host: data.product.signalpath.com
-Type: CNAME
-Points to: bolich12.github.io
-TTL: 300 
+data.product.signalpath.com
